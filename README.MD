@@ -24,14 +24,14 @@ Each folder contains:
 
 - `README.md` – explanation of the concept (where applicable)
 
-## 📦 Requirements
+## 📦 Requirements:
 
 Install LangGraph:
 
 pip install langgraph
 
 
-## 💡 Why This Repo Is Valuable
+## 💡 Why This Repo Is Valuable:
 
 - 📚 Progressive learning from simple to complex
 
