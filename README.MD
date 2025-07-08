@@ -33,13 +33,13 @@ pip install langgraph
 
 ## 💡 Why This Repo Is Valuable
 
-    - 📚 Progressive learning from simple to complex
+- 📚 Progressive learning from simple to complex
 
-    - ⚡ Fast execution – all examples are lightweight
+- ⚡ Fast execution – all examples are lightweight
 
-    - 🧠 Real-world structure – reflects actual agent use cases
+- 🧠 Real-world structure – reflects actual agent use cases
 
-    - 🏗️ Perfect base for production systems like Vaasthu Vision AI
+- 🏗️ Perfect base for production systems like Vaasthu Vision AI
 
 ## Made By:
 
